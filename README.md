@@ -11,7 +11,7 @@ I'm a final year undergraduate Computer Science student from Bina Nusantara Univ
 
 💎 I can do low poly 3D Modeling, currently learning to make a more detailed model
 
-👌🏻 I work with an amazing group of people during my time in the academy, being part of the iCU team. If you want to check out our work, like our folklore storytelling iOS AR Game, Carita, you can go to our team repository here:
+👌🏻 I work with an amazing group of people during my time in the academy, being part of the iCU team. If you want to check out our work, like our folklore storytelling iOS AR Game, Carita, you can go to our team repository here: https://github.com/iCUTeam (Do check out other members git as well if you would like!)
 
 🎮 Fun fact: I love gaming and have played a lot different genre of game, and that's what make me love game development even more. 
 
