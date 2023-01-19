@@ -21,7 +21,7 @@ LinkedIn: linkedin.com/in/kathleen-febiola/
 
 Email: kathy.febiola02@gmail.com
 
-Instagram: kathkathrenata26
+Instagram: @kathkathrenata26
 
 
 
