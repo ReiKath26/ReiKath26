@@ -1,4 +1,8 @@
-### Hi there 👋
+### Eyyyy, hello there ☘️ 👋
+
+I'm a final year undergraduate Computer Science student from Bina Nusantara University majoring on Multimedia Programming. I love to learn new things, particularly things related to game and mobile development and design. I'm also a graduate of Apple Developer Academy @BINUS and have made some apps and games to solve real life problems there, which you can definitely check out in my github repositories or my team github repositories that I'll link on the bottom of this page.
+
+
 
 <!--
 **ReiKath26/ReiKath26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
