@@ -1,4 +1,4 @@
-### Eyyyy, hello there ☘️ 👋
+### Howdy, folks! ☘️ 👋
 
 I'm a final year undergraduate Computer Science student from Bina Nusantara University focusing on Multimedia Programming Study. I love to learn new things, particularly things related to game and mobile development, also design related stuff, 3D or 2D. I'm also recent graduate of Apple Developer Academy @BINUS and have made some apps and games to solve real life problems there, which you can definitely check out in my github repositories or my team github repositories.
 
