@@ -5,13 +5,15 @@ I'm a final year undergraduate Computer Science student from Bina Nusantara Univ
 ### More about me
 🧘🏼‍♂️ Pronouns: She/Her
 
-🥂 I'm currently learning game development on both unity and unreal. I also currently improving my iOS Development to expand from what I learned in the academy (interested to learn more about AR and VR development in the future)
+🎓I'm on the final stage of my thesis project and will face my thesis defense at the end of February. Should everything goes well, I'll be free to explore beyond college life afterwards. Wish me luck!
+
+🥂 I'm interested in game and mobile app development. I'm currently learning game development on both unity and unreal. I also currently improving my iOS Development to expand from what I learned in the academy (interested to learn more about AR and VR development in the future, too!)
 
 💎 I can do low poly 3D Modeling, currently learning to make a more detailed model
 
 👌🏻 I work with an amazing group of people during my time in the academy, being part of the iCU team. If you want to check out our work, like our folklore storytelling iOS AR Game, Carita, you can go to our team repository here: https://github.com/iCUTeam (Do check out other members git as well if you would like!)
 
-🎮 Fun fact: I love gaming and have played a lot different genre of game, and that's what make me love game development even more. 
+🎮 I am an avid gamer, I have played different genre of game, but my overall go-to would be adventure based game.
 
 ### Reach me on
 
