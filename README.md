@@ -5,6 +5,8 @@ I'm a final year undergraduate Computer Science student from Bina Nusantara Univ
 ### More about me
 🧘🏼‍♂️ Pronouns: She/Her
 
+💻 Code Language I have mastered so far: C++, C#, Java, HTML, JavaScript, CSS, PHP, Swift, Objective-C
+
 🎓I'm on the final stage of my thesis project and will face my thesis defense at the end of February. Should everything goes well, I'll be free to explore beyond college life afterwards. Wish me luck!
 
 🥂 I'm interested in game and mobile app development. I'm currently learning game development on both unity and unreal. I also currently improving my iOS Development to expand from what I learned in the academy (particularly on the use of external library and networking concept in Swift, as well as the Design Patterns). I would also like to learn other tech stack, like Machine Learning, AR/VR, etc in the future!
