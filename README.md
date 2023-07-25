@@ -5,7 +5,7 @@ I'm a 21 year old game developer from Indonesia. I love to learn new things, par
 ### More about me
 🧘🏼‍♂️ Pronouns: She/Her
 
-💻 Code Language I have mastered so far: C++, C#, Java, HTML, JavaScript, CSS, PHP, Swift, Objective-C
+💻 Code Language I have learned so far: C++, C#, Java, HTML, JavaScript, CSS, PHP, Swift, Objective-C
 
 🥂 I'm interested in game and mobile app development. I'm currently learning game development on both unity and unreal. I also currently improving my iOS Development to expand from what I learned in the academy (particularly on the use of external library and networking concept in Swift, as well as the Design Patterns). I would also like to learn other tech stack, like Machine Learning, AR/VR, etc in the future!
 
@@ -13,7 +13,7 @@ I'm a 21 year old game developer from Indonesia. I love to learn new things, par
 
 👌🏻 I work with an amazing group of people during my time in the academy, being part of the iCU team. If you want to check out our work, like our folklore storytelling iOS based AR Game, Carita, you can go to our team repository here: https://github.com/iCUTeam (Do check out other members git as well if you would like!)
 
-🎮 I am an avid gamer, I have played different genre of game, but my overall go-to would be adventure based game.
+🎮 I am an avid gamer, I have played different genre of game, but my overall go-to would be adventure based game. Would like to try to develop those kind of games as well
 
 ### Reach me on
 
