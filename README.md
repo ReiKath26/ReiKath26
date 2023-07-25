@@ -1,6 +1,6 @@
 ### Howdy, folks! ☘️ 👋
 
-I'm a fresh graduate from BINUS University's School of Computer Science, focusing on iOS and Game Development Study. I love to learn new things, particularly things related to game and mobile development, also design related stuff, 3D or 2D. I'm also recent graduate of Apple Developer Academy @BINUS and have made some apps and games to solve real life problems there, which you can definitely check out in my github repositories or my team github repositories.
+I'm a 21 year old game developer from Indonesia. I love to learn new things, particularly things related to game and mobile development, also design related stuff, 3D or 2D. I'm also recent graduate of Apple Developer Academy @BINUS and have made some apps and games to solve real life problems there, which you can definitely check out in my github repositories or my team github repositories.
 
 ### More about me
 🧘🏼‍♂️ Pronouns: She/Her
@@ -11,7 +11,7 @@ I'm a fresh graduate from BINUS University's School of Computer Science, focusin
 
 💎 I can do low poly 3D Modeling, currently learning to make a more detailed model
 
-👌🏻 I work with an amazing group of people during my time in the academy, being part of the iCU team. If you want to check out our work, like our folklore storytelling iOS AR Game, Carita, you can go to our team repository here: https://github.com/iCUTeam (Do check out other members git as well if you would like!)
+👌🏻 I work with an amazing group of people during my time in the academy, being part of the iCU team. If you want to check out our work, like our folklore storytelling iOS based AR Game, Carita, you can go to our team repository here: https://github.com/iCUTeam (Do check out other members git as well if you would like!)
 
 🎮 I am an avid gamer, I have played different genre of game, but my overall go-to would be adventure based game.
 
@@ -23,6 +23,9 @@ Email: kathy.febiola02@gmail.com
 
 Instagram: @kathkathrenata26
 
+Discord: rayelight/ rayeLight#1689
+
+Twitter (Not really active): @raye_skLight
 
 
 <!--
